@@ -1,0 +1,10 @@
+# Never commit participant data or generated figures
+*.xlsx
+*.csv
+*.edf
+*.png
+*.pdf
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
